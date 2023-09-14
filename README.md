@@ -1,6 +1,6 @@
 ### Hi there, I am José 👋
 
-I am a Maths PhD students at [Nova University of Lisbon, FCT](https://www.fct.unl.pt/en), Portugal.
+I am a Maths PhD student at [Nova University of Lisbon, FCT](https://www.fct.unl.pt/en), Portugal.
 
 #### 🎓 Research articles
 
