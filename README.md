@@ -4,7 +4,7 @@ I am a Maths PhD student at [Nova University of Lisbon, FCT](https://www.fct.unl
 
 #### 🎓 Research articles
 
-> - [An improvement of the Farrell-Jones conjecture for localising invariants](https://arxiv.org/abs/2211.15523), to appear in Proceedings of the AMS, 2023.
+> - [An improvement of the Farrell-Jones conjecture for localising invariants](https://arxiv.org/abs/2211.15523), [Proceedings of the AMS, 151, No. 12, 5111-5116](https://www.ams.org/journals/proc/2023-151-12/S0002-9939-2023-16552-1/?active=current).
 > - [A refinement of some previous results of Bernardara-Marcolli-Tabuada and Ornaghi-Pertusi](https://arxiv.org/abs/2206.08893), arxiv, 2022.
 > - [Identification of proofs via syzygies](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2018.0275), Philosophical Transactions of the Royal Society A, 2019.
 
