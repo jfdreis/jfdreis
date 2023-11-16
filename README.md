@@ -2,6 +2,8 @@
 
 I am a Maths PhD student at [Nova University of Lisbon, FCT](https://www.fct.unl.pt/en), Portugal.
 
+- 🌱 I’m currently learning Cryptography and I'm interested in Zero Knowledge proofs.
+
 #### 🎓 Research articles
 
 > - [An improvement of the Farrell-Jones conjecture for localising invariants](https://arxiv.org/abs/2211.15523), [Proceedings of the AMS, 151, No. 12, 5111-5116](https://www.ams.org/journals/proc/2023-151-12/S0002-9939-2023-16552-1/?active=current).
@@ -14,9 +16,8 @@ I am a Maths PhD student at [Nova University of Lisbon, FCT](https://www.fct.unl
 **jfdreis/jfdreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
