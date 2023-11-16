@@ -1,8 +1,8 @@
 ### Hi there, I am José 👋
 
-I am a Maths PhD student at [Nova University of Lisbon, FCT](https://www.fct.unl.pt/en), Portugal.
+I am a Maths PhD student at [Nova University of Lisbon, FCT](https://www.fct.unl.pt/en), Portugal. In my thesis I used theory of noncommutative motives to solve problems in Algebraic Geometry and in Algebraic topology.
 
-- 🌱 I’m currently learning Cryptography and I'm interested in Zero Knowledge proofs.
+- 🌱 Recently, I decided to learn Cryptography and I'm interested in Zero Knowledge proofs.
 
 #### 🎓 Research articles
 
