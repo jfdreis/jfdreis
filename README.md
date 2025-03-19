@@ -13,6 +13,7 @@ I am a Maths PhD student at [Nova University of Lisbon, FCT](https://www.fct.unl
 
 #### 🗞️ Blog posts
 
+> - [Rethinking signatures: Overcoming Risks through Decentralized Cryptography](https://nillion.com/news/rethinking-signatures/)
 > - [From Ripple and Curl to Wave](https://nillion.com/news/__trashed-2/)
 > - [Where Is the CGGMP 7-Round Protocol?](https://nillion.com/news/where-is-the-cggmp-7-round-protocol/)
 <!--
