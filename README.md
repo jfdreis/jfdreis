@@ -1,8 +1,8 @@
-### Hi there, I am José 👋
+### Hi there, I am Zé 👋
 
-I am a Maths PhD student at [Nova University of Lisbon, FCT](https://www.fct.unl.pt/en), Portugal. In my thesis I used theory of noncommutative motives to solve problems in Algebraic Geometry and in Algebraic topology.
+I hold a Ph.D. in Mathematics from [Nova University of Lisbon, FCT](https://www.fct.unl.pt/en), where I applied the theory of noncommutative motives to address problems in algebraic geometry and algebraic topology. I also hold an M.Sc. in Pure Mathematics from Imperial College London and a B.Sc. in Mathematics from Nova University of Lisbon.
 
-- 🌱 Recently, I decided to learn Cryptography and I'm interested in Zero Knowledge proofs.
+- 🌱 Recently, I began exploring and working in the field of cryptography, focusing on Secure Multiparty Computation (MPC) and Zero-Knowledge Proofs.
 
 #### 🎓 Research articles
 
@@ -15,6 +15,7 @@ I am a Maths PhD student at [Nova University of Lisbon, FCT](https://www.fct.unl
 #### 🗞️ Blog posts
 
 > - [Rethinking signatures: Overcoming Risks through Decentralized Cryptography](https://nillion.com/news/rethinking-signatures/)
+> - [Improving threshold ECDSA and its applications to AI Agents](https://nillion.com/news/improving-threshold-ecdsa-and-its-applications-to-ai-agents/)
 > - [From Ripple and Curl to Wave](https://nillion.com/news/__trashed-2/)
 > - [Where Is the CGGMP 7-Round Protocol?](https://nillion.com/news/where-is-the-cggmp-7-round-protocol/)
 <!--
