@@ -1,8 +1,9 @@
 ### Hi there, I am Zé 👋
 
-I hold a Ph.D. in Mathematics from [Nova University of Lisbon, FCT](https://www.fct.unl.pt/en), where I applied the theory of noncommutative motives to address problems in algebraic geometry and algebraic topology. I also hold an M.Sc. in Pure Mathematics from Imperial College London and a B.Sc. in Mathematics from Nova University of Lisbon.
+I hold a Ph.D. in Mathematics from [Nova University of Lisbon, FCT](https://www.fct.unl.pt/en), where I applied the theory of noncommutative motives to problems in algebraic geometry and algebraic topology. I also hold an M.Sc. in Pure Mathematics from Imperial College London and a B.Sc. in Mathematics.
 
-- 🌱 Recently, I began exploring and working in the field of cryptography, focusing on Secure Multiparty Computation (MPC) and Zero-Knowledge Proofs.
+🚀 Over the past two year, I have been exploring and working in the field of cryptography, focusing on **Secure Multiparty Computation (MPC)** and **Zero-Knowledge Proofs ZKPs**. During this time, I authored four technical blogpost on threshold cryptograpohy, ECDSA signatures, and private lookup table evaluation.
+I also contributed to [nilRAG](https://github.com/NillionNetwork/nilrag), a privacy-preserving retrieval-augmented generation system, and have been actively involved in upgrading the implementation of a Threshold ECDSA signature from the [CGGMP21](https://github.com/LFDT-Lockness/cggmp21) paper to its updated CGGMP24 version - an LFDT-Lockness open source project - by, for example, implementing ZKPs.
 
 #### 🎓 Research articles
 
